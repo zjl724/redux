@@ -1,0 +1,85 @@
+[{
+        "id": 1,
+        "name": "香蕉",
+        "price": 3.99,
+        "checked": false
+    },
+    {
+        "id": 2,
+        "name": "苹果",
+        "price": 6.8,
+        "checked": false
+    },
+    {
+        "id": 3,
+        "name": "梨",
+        "price": 6.8,
+        "checked": false
+    },
+    {
+        "id": 4,
+        "name": "火龙果",
+        "price": 9.8,
+        "checked": false
+    },
+    {
+        "id": 5,
+        "name": "荔枝",
+        "price": 12.8,
+        "checked": false
+    },
+    {
+        "id": 6,
+        "name": "香蕉",
+        "price": 3.99,
+        "checked": false
+    },
+    {
+        "id": 7,
+        "name": "苹果",
+        "price": 6.8,
+        "checked": false
+    },
+    {
+        "id": 8,
+        "name": "火龙果",
+        "price": 9.8,
+        "checked": false
+    },
+    {
+        "id": 9,
+        "name": "荔枝",
+        "price": 12.8,
+        "checked": false
+    },
+    {
+        "id": 10,
+        "name": "香蕉",
+        "price": 3.99,
+        "checked": false
+    },
+    {
+        "id": 11,
+        "name": "苹果",
+        "price": 6.8,
+        "checked": false
+    },
+    {
+        "id": 12,
+        "name": "梨",
+        "price": 6.8,
+        "checked": false
+    },
+    {
+        "id": 13,
+        "name": "火龙果",
+        "price": 9.8,
+        "checked": false
+    },
+    {
+        "id": 14,
+        "name": "荔枝",
+        "price": 12.8,
+        "checked": false
+    }
+]
